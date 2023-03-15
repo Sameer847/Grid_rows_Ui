@@ -1,0 +1,156 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  /* align-items: flex-start; */
+  width: 100%;
+  gap: 10px;
+
+  margin-top: 30px;
+  /* flex-direction: column; */
+}
+.container .List1 {
+  background: #d1d1d1;
+  width: 100px;
+  height: 100px;
+}
+.container .List2 {
+  display: flex;
+  background: #d1d1d1;
+  width: 1086px;
+  height: 100px;
+  flex: 1;
+}
+.container .List3 {
+  display: flex;
+  width: 100px;
+  height: 100px;
+
+  background: #d1d1d1;
+}
+
+/* row 2 start  */
+
+.container .row1 {
+  background: #d1d1d1;
+  width: 1086px;
+  height: 100px;
+  flex: 1;
+}
+
+.container .row2 {
+  display: flex;
+
+  background: #d1d1d1;
+  width: 100px;
+  height: 100px;
+}
+.container .row3 {
+  display: flex;
+  background: #d1d1d1;
+  width: 100px;
+  height: 100px;
+}
+
+/* Row 3 start  */
+
+.container .Horizon1 {
+  background: #d1d1d1;
+  width: 100px;
+  height: 100px;
+}
+
+.container .Horizon2 {
+  display: flex;
+
+  background: #d1d1d1;
+
+  width: 100px;
+  height: 100px;
+}
+.container .Horizon3 {
+  display: flex;
+
+  background: #d1d1d1;
+  width: 1086px;
+  height: 100px;
+  flex: 1;
+}
+
+/* Row 4 start  */
+
+.container .Line1 {
+  background: #d1d1d1;
+  width: 593px;
+  height: 100px;
+}
+
+.container .Line2 {
+  display: flex;
+
+  background: #d1d1d1;
+  width: 100px;
+  height: 100px;
+}
+
+.container .Line3 {
+  display: flex;
+
+  background: #d1d1d1;
+  width: 593px;
+  height: 100px;
+  flex: 1;
+}
+
+/* Row 5 start  */
+
+.container .Sec1 {
+  width: 428.67px;
+  height: 100px;
+  background: #d1d1d1;
+}
+
+.container .Sec2 {
+  display: flex;
+
+  background: #d1d1d1;
+  width: 428.67px;
+  height: 100px;
+}
+
+.container .Sec3 {
+  display: flex;
+  width: 428.67px;
+  height: 100px;
+  background: #d1d1d1;
+  flex: 1;
+}
+
+/* Row 6 start  */
+
+.container .divide1 {
+  width: 593px;
+  height: 100px;
+  background: #d1d1d1;
+}
+
+.container .divide2 {
+  display: flex;
+
+  background: #d1d1d1;
+  width: 593px;
+  height: 100px;
+}
+
+.container .divide3 {
+  display: flex;
+
+  width: 100px;
+  height: 100px;
+
+  background: #d1d1d1;
+  flex: 1;
+}
